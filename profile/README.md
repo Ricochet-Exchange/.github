@@ -1,4 +1,4 @@
-
+![Cover Templates](https://user-images.githubusercontent.com/69639595/165631214-3a9dc2e3-b2b5-4768-9220-0cd0ad500cb9.png)
 
 ## Welcome to the future of investing 👋
 
@@ -21,4 +21,5 @@ Learn more about each of our projects below.
 * All bounties are paid out after completion on Fridays. Payout based on $RIC price at time of completion.
 
 View our bounties in our [Business repo](https://github.com/Ricochet-Exchange/docs.ricochet.exchange/blob/main/business/bounty-hunters.md).
+
 
