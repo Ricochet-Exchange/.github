@@ -1,6 +1,6 @@
 ![gif_slide](https://user-images.githubusercontent.com/69639595/165824337-81f487c9-fa13-4048-af1c-41869d822aac.gif)
 
-# Welcome to the future of investing 👋
+# Welcome to the future of finance 👋
 
 🙋‍♀️ Ricochet Exchange is focused on producing novel tools that allow people to invest their crypto assets in real-time using Superfluid's finance framework. 
 Learn more about each of our projects below.
