@@ -1,4 +1,4 @@
-![Cover Templates](https://user-images.githubusercontent.com/69639595/165631214-3a9dc2e3-b2b5-4768-9220-0cd0ad500cb9.png)
+![gif_slide](https://user-images.githubusercontent.com/69639595/165824337-81f487c9-fa13-4048-af1c-41869d822aac.gif)
 
 # Welcome to the future of investing 👋
 
