@@ -15,11 +15,6 @@ Learn more about each of our projects below.
  How it works
 
 * Read our [Contributor Guidelines](https://github.com/Ricochet-Exchange/ricochet-frontend/blob/v2/CONTRIBUTING.md)
-* Bounties are open to anyone; bounties are Github Issues
-* Create a thread in Discord to claim and start working on a bounty
-* All bounties are paid out in RIC tokens
-* All bounties are paid out after completion on Fridays. Payout based on $RIC price at time of completion.
-
-View our bounties in our [Business repo](https://github.com/Ricochet-Exchange/docs.ricochet.exchange/blob/main/business/bounty-hunters.md).
+* Bounties are open to anyone on [Dework](https://app.dework.xyz/ricochet-exchange-da)
 
 
